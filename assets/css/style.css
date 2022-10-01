@@ -22,15 +22,17 @@ a:hover {
   background-color: #149ddd;
   color: #fff;
   border: none;
-  border-radius: 5px;
+  border-radius: 9px;
   padding: 10px 20px;
-  font-size: 40px;
+  font-size: 24px;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.3s ease;
-  margin: 50px;
-  width: 30%;
+  margin: 30px;
+  width: 10%;
   height: 80px;
+  min-width: 20vh;
+  flex-direction: column;
 }
 h1,
 h2,
