@@ -17,6 +17,9 @@ a:hover {
   color: #149ddd;
   text-decoration: none;
 }
+.deep-vid{
+  margin: auto;
+}
 
 .Big-button{
   background-color: #149ddd;
@@ -25,14 +28,14 @@ a:hover {
   border-radius: 9px;
   padding: 10px 20px;
   font-size: 24px;
-  font-weight: 600;
+  font-weight: 500;
   cursor: pointer;
   transition: all 0.3s ease;
   margin: 30px;
   width: 10%;
   height: 80px;
   min-width: 20vh;
-  flex-direction: column;
+ 
 }
 h1,
 h2,
