@@ -41,11 +41,20 @@ a:hover {
  
 }
 
-@media screen and (max-width: 768px) {
-  .deep-vid {
-    width: 100%;
-    margin: 0;
-  }
+.Big-button:hover{
+  background-color: #37b3ed;
+  color: #fff;
+  border: none;
+  border-radius: 9px;
+  padding: 10px 20px;
+  font-size: 24px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin: 30px;
+  width: 10%;
+  height: 80px;
+  min-width: 20vh;
 }
 h1,
 h2,
