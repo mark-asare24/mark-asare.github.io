@@ -1,9 +1,4 @@
-/**
-* Template Name: iPortfolio - v3.9.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 
@@ -128,7 +123,7 @@
   /**
    * Hero type effect
    */
-  const typed = select('.typed')
+ /* const typed = select('.typed')
   if (typed) {
     let typed_strings = typed.getAttribute('data-typed-items')
     typed_strings = typed_strings.split(',')
@@ -139,7 +134,7 @@
       backSpeed: 50,
       backDelay: 2000
     });
-  }
+  }*/
 
   /**
    * Skills animation

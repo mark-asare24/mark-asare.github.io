@@ -263,7 +263,7 @@ h6 {
   width: 100%;
   height: 100vh;
   background: url("../img/portfolio/Visualization\ of\ a\ fully\ connected\ neural\ network.mp4") top center;
-  background-size: cover contain contain;
+  background-size: cover contain;
 }
 
 #hero:before {
